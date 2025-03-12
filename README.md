@@ -19,9 +19,9 @@
 
 ---
 
-## 📊 Technology Usage Overview
+## 🎨 Technology Usage Overview  
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alextryfg&theme=github_dark)](https://github.com/Alextryfg)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alextryfg&theme=tokyonight)](https://github.com/Alextryfg)
 
 ---
 
