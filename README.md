@@ -1,5 +1,3 @@
-# 💻 About Me
-
 👋 Hi there! I'm a **Software Engineer** working as a **Software Developer** on a **public healthcare project for SERGAS**. My main expertise is in **Java J2EE and Jakarta EE**, but I am constantly striving to learn and grow every day. 📚✨  
 
 ---
@@ -21,13 +19,7 @@
 
 ## 🎨 Technology Usage Overview  
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alextryfg&theme=tokyonight)](https://github.com/Alextryfg)
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextryfg&theme=github_dark)](https://github.com/Alextryfg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextryfg&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff)](https://github.com/Alextryfg)  
 
 ---
 
