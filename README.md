@@ -21,13 +21,13 @@
 
 ## 📊 Technology Usage Overview
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alextryfg&theme=github_dark)](https://github.com/Alextryfg)
 
 ---
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextryfg&theme=github_dark)](https://github.com/Alextryfg)
 
 ---
 
