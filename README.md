@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-Full Stack Software Engineer building enterprise systems from scratch. Currently developing **BIFROST** — an HR training management platform at [EDNON](https://ednon.es) — handling employee profiling, intelligent CV parsing, certification workflows, and cloud deployment on Azure.
+Full Stack Software Engineer building enterprise systems from scratch. Currently developing **BIFROST** — an HR training management platform at [EDNON](https://ednon.com) — handling employee profiling, intelligent CV parsing, certification workflows, and cloud deployment on Azure.
 
 Previously, I worked on **SIPGA/MANTS** (Galician Health Card), a mission-critical healthcare platform serving 2M+ citizens for the Galician Health Service.
 
