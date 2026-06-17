@@ -1,26 +1,76 @@
-👋 Hi there! I'm a **Software Engineer** working as a **Software Developer** on a **public healthcare project for SERGAS**. My main expertise is in **Java J2EE and Jakarta EE**, but I am constantly striving to learn and grow every day. 📚✨  
+# Hi, I'm Alex 👋
+
+Full Stack Software Engineer building enterprise systems from scratch. Currently developing **BIFROST** — an HR training management platform at [EDNON](https://ednon.es) — handling employee profiling, intelligent CV parsing, certification workflows, and cloud deployment on Azure.
+
+Previously, I worked on **SIPGA/MANTS** (Galician Health Card), a mission-critical healthcare platform serving 2M+ citizens for the Galician Health Service.
+
+I'm into clean architecture, process automation with AI, and building things that actually remove manual work.
+
+**Seeking Full Stack / Backend Engineer opportunities in Australia 🇦🇺**
 
 ---
 
-## 🚀 Technologies & Tools
+## 🛠 Current Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-%23007396.svg?style=for-the-badge&logo=jakartaee&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
+---
 
-### 🌱 Currently Learning
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%23007ACC.svg?style=for-the-badge&logo=cloud&logoColor=white)
+## 🚀 What I've Shipped
+
+### BIFROST — HR Training Management Platform *(EDNON, Nov 2025–Present)*
+Full-stack platform built end-to-end: Spring Boot REST API, Angular SPA, PostgreSQL schema design from scratch, Azure Entra ID enterprise auth, Docker Compose deployment to Azure Container Registry.
+
+Key things I built:
+- **Adaptive CV parser** — handles 50+ diverse .docx CVs with variable table layouts and mixed date formats. 95%+ extraction accuracy.
+- **CV search engine** — advanced filters (experience, certifications, technologies). Freed HR from ~5h/week of manual search.
+- **Word export automation** — auto-generates candidate profiles in .docx with full corporate branding.
+- **Certification request workflow** — end-to-end flow with status tracking and automatic notifications, replacing manual email management.
 
 ---
 
-## 🎨 Technology Usage Overview  
+### SIPGA/MANTS — Galician Health Card *(Altia, Sep 2024–Nov 2025)*
+Backend development on a mission-critical healthcare system for the Galician Health Service (2M+ citizens). 50+ features shipped across 15 monthly release cycles.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextryfg&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff)](https://github.com/Alextryfg)  
+Notable: led the deceased patient module (200+ hours) — complex multi-table transactions with automatic rollback, zero defects in production.
 
 ---
 
-🚀 **Always eager to explore new technologies and improve my skills.** Feel free to connect or collaborate! 😃
+## 🤖 AI & Automation Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Physical Frailty Assessment](https://github.com/Alextryfg/AppPrediccionFragilidad) | ML app combining mobile sensors + machine learning to assess frailty in elderly patients. Validated in clinical trials. | Python, Scikit-learn, Pandas |
+| [AI Video Generator](https://github.com/Alextryfg/ProyectoYoutube) | Automated pipeline: text → images → voice → video. Cuts content production from 4–5h to under 1h. | GPT-3.5, Replicate FLUX, ElevenLabs, MoviePy |
+| Event Registration Automation | Online registration for sporting events with real-time parking control and notification automation. | GitHub Pages, Make/Integromat |
+
+---
+
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextryfg&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff)](https://github.com/Alextryfg)
+
+---
+
+## 📜 Certifications
+
+- **Microsoft Azure Fundamentals (AZ-900)** — Feb 2026
+- **Spring Boot & Spring Cloud: Microservices in the Cloud** — 2025
+- **Claude Code in Action** (Anthropic) — Apr 2026
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexfuego)
+
+---
+
+*Open to Full Stack and Backend Engineer roles in Australia. Visa sponsorship required.*
