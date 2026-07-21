@@ -51,12 +51,6 @@ Notable: led the deceased patient module (200+ hours) — complex multi-table tr
 
 ---
 
-## 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextryfg&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff)](https://github.com/Alextryfg)
-
----
-
 ## 📜 Certifications
 
 - **Microsoft Azure Fundamentals (AZ-900)** — Feb 2026
