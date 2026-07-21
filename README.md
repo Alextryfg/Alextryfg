@@ -6,8 +6,6 @@ Previously, I worked on **SIPGA/MANTS** (Galician Health Card), a mission-critic
 
 I'm into clean architecture, process automation with AI, and building things that actually remove manual work.
 
-**Seeking Full Stack / Backend Engineer opportunities in Australia 🇦🇺**
-
 ---
 
 ## 🛠 Current Stack
