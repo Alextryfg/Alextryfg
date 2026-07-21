@@ -64,5 +64,3 @@ Notable: led the deceased patient module (200+ hours) — complex multi-table tr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexfuego)
 
 ---
-
-*Open to Full Stack and Backend Engineer roles in Australia. Visa sponsorship required.*
