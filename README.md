@@ -53,6 +53,7 @@ Notable: led the deceased patient module (200+ hours) — complex multi-table tr
 
 ## 📜 Certifications
 
+- **Microsoft Azure AI (AI-200)** — In progress...
 - **Microsoft Azure Fundamentals (AZ-900)** — Feb 2026
 - **Spring Boot & Spring Cloud: Microservices in the Cloud** — 2025
 - **Claude Code in Action** (Anthropic) — Apr 2026
