@@ -45,7 +45,7 @@ Notable: led the deceased patient module (200+ hours) — complex multi-table tr
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Physical Frailty Assessment](https://github.com/Alextryfg/AppPrediccionFragilidad) | ML app combining mobile sensors + machine learning to assess frailty in elderly patients. Validated in clinical trials. | Python, Scikit-learn, Pandas |
+| [Physical Frailty Assessment](https://github.com/Alextryfg/AppPrediccionFragilidad) | ML app combining mobile sensors + machine learning to assess frailty in elderly patients. Validated in clinical study. | Python, Scikit-learn, Pandas |
 | [AI Video Generator](https://github.com/Alextryfg/ProyectoYoutube) | Automated pipeline: text → images → voice → video. Cuts content production from 4–5h to under 1h. | GPT-3.5, Replicate FLUX, ElevenLabs, MoviePy |
 | Event Registration Automation | Online registration for sporting events with real-time parking control and notification automation. | GitHub Pages, Make/Integromat |
 
